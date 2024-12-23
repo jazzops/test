@@ -1,0 +1,50 @@
+{
+  "positive": [
+    "Gdynia, integrating the principles of sustainable development, implements the concept of a 'green port' and a 'green city', combining economic development with care for the environment.",
+    "Smart cities, such as Gdynia, focus on ecological education, promoting renewable energy sources and pro-ecological management models.",
+    "As part of smart city activities, cities such as Puck and Pruszcz Gdański are creating a network of city parks, retention reservoirs and recreational areas.",
+    "Increasing residents' environmental awareness is key to the effective implementation of smart city solutions, as emphasized by cities such as Gdynia.",
+    "Smart cities in the Pomeranian Voivodeship, striving to reduce greenhouse gas emissions, invest in improving energy efficiency.",
+    "Modern cities, taking care of ecological safety, use intelligent environmental monitoring and management systems.",
+    "The growing importance of public, pedestrian and bicycle transport is an important element of the smart city strategy, as can be seen in the example of the Tri-City.",
+    "Smart cities, such as Gdańsk, promote pro-ecological transport solutions, striving to reduce exhaust emissions.",
+    "Investments in public transport, such as the park&ride system in Lębork, are aimed at improving mobility in cities.",
+    "The woonerf concept, by limiting car traffic, is conducive to pedestrians and cyclists, improving safety and integration of residents.",
+    "Modern cities are focusing on the development of cycling infrastructure, creating comfortable conditions for cyclists, as can be seen in the example of Lębork.",
+    "Smart cities are implementing intelligent traffic management systems, improving urban communication.",
+    "Information and communication technologies improve municipal services, such as e-health and e-office, making it easier for residents to handle matters.",
+    "Smart cities are open to dialogue with residents, promoting social participation in decision-making processes.",
+    "The Civic Budget is an example of a successful implementation of the smart city idea, enabling residents to co-decide on the city's expenditures.",
+    "Smart cities focus on education, promoting the model of a lifelong learning society.",
+    "Cooperation between universities, public institutions and business is an important element of the smart city strategy, as can be seen in the example of the Tri-City.",
+    "Smart cities support the development of innovation, creating a friendly environment for startups and the research and development sector.",
+    "Smart cities care for social integration, creating spaces conducive to building interpersonal relationships.",
+    "Modern cities strive to improve the quality of public services, taking into account the needs of all residents.",
+    "Smart cities support the development of cultural offerings, organizing events of supra-local importance."
+  ],
+  "neutral": [
+    "The smart city concept assumes a holistic approach to city management, treating it as a coherent organism.",
+    "Smart cities are cities that use modern technologies to solve problems resulting from urbanization.",
+    "The implementation of smart city solutions requires close cooperation between city authorities, residents and the business sector.",
+    "The city development strategy should include specific actions, measurable indicators and an implementation schedule.",
+    "The main challenges facing cities include environmental pollution, traffic congestion and suburbanization.",
+    "Population growth in cities requires the development of sustainable forms of transport.",
+    "The aging of society forces cities to create solutions dedicated to seniors.",
+    "Access to fast Internet is essential for the development of the information society and the implementation of smart city solutions.",
+    "The level of development of technical and social infrastructure is crucial for the implementation of smart city solutions.",
+    "It is necessary to ensure equal access to education and technology for all social groups, including the elderly and the disabled.",
+    "An important element of the smart city strategy is to create a comprehensive offer for investors, attracting foreign capital.",
+    "International cooperation and exchange of experiences are crucial for the effective implementation of smart city solutions, as can be seen in the example of Malbork and cooperation with the Kaliningrad Oblast.",
+    "The Tri-City agglomeration plays a leading role in the Pomeranian Voivodeship in the implementation of smart city solutions.",
+    "City authorities should constantly monitor and evaluate the effectiveness of implemented smart city solutions."
+  ],
+  "negative": [
+    "The lack of a coherent vision and development strategy towards a smart city at the level of the Pomeranian Voivodeship hinders coordinated actions.",
+    "Low awareness among residents about the idea of a smart city and the possibilities of getting involved in their implementation may pose a challenge.",
+    "Limited access to public data and their insufficient quality hinder the development of innovative smart city solutions.",
+    "There is a risk that investments in smart city technologies will exacerbate social inequalities if appropriate inclusive actions are not taken."
+  ]
+}
+content_copy
+Use code with caution.
+Json
